@@ -1,0 +1,25 @@
+apiVersion: v1
+entries:
+  glpi:
+  - apiVersion: v2
+    appVersion: 1.16.0
+    created: "2022-01-19T14:50:29.5429121+01:00"
+    description: A Helm chart for Kubernetes
+    digest: d21c772007e009a62df36c92e6dbbe44f95f7720473b79337d6bf6b121f0fb12
+    name: glpi
+    type: application
+    urls:
+    - https://github.com/hemclap/helm-chart/glpi-0.1.0.tgz
+    version: 0.1.0
+  helm-chart-test:
+  - apiVersion: v2
+    appVersion: 1.16.0
+    created: "2022-01-19T14:50:29.5436033+01:00"
+    description: A Helm chart for Kubernetes
+    digest: 7e174bedfa9a762ce1cb4e0a6ffdc02d7cba3e63d9054109f1184b4475622c7d
+    name: helm-chart-test
+    type: application
+    urls:
+    - https://github.com/hemclap/helm-chart/helm-chart-test-0.1.0.tgz
+    version: 0.1.0
+generated: "2022-01-19T14:50:29.542176+01:00"
